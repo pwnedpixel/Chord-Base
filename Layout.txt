@@ -1,0 +1,14 @@
+main.js
+
+  Home.js
+    HomeHeader.js
+    HomeBody.js
+    DefaultFooter.js
+
+Page.js    //page
+  DefaultHeader.js
+    FreeChordsComp.js
+    PaidChords.js
+    EditChord.js
+    ViewChord.js
+  DefaultFooter.js
